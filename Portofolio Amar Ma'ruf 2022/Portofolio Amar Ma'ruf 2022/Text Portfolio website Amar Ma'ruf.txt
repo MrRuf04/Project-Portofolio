@@ -1,0 +1,186 @@
+========== HOME ==========
+.home__greeting
+Hello, I'm
+
+.home__name
+Amar Ma'ruf
+
+.home__education
+Frontend Developer
+
+.home__social-link
+https://www.linkedin.com/
+https://github.com/
+
+.home__scroll-name
+Scroll Down
+
+========== ABOUT ==========
+.section__subtitle | .section__title
+My Intro
+About Me
+
+.about__title | .about__subtitle
+Experience
+one year software development training
+
+Completed
+3 + Projects
+
+Support
+Online 24/7
+
+.about__description
+Frontend developer, I created a web page with HTML, CSS and Java Script user interface,
+I have a full year of software development training experience at PeTIK Jombang
+
+========== SKILLS ==========	
+.section__subtitle | .section__title
+My abilities
+My Experience
+
+.skills__title
+Frontend developer
+Microsoft Office
+
+.skills__name | .skills__level
+HTML
+Basic
+
+CSS
+Advanced
+
+JavaScript
+Basic
+
+Bootstrap
+Intermediate
+
+Python
+Basic
+
+Moddle
+Basic
+
+Microsoft Word
+Intermediate
+
+Microsoft Excel
+Intermediate
+
+Microsoft Powerpoint
+Intermediate
+
+========== HOBBY ==========
+.section__subtitle | .section__title
+My Hobby
+What am I doing
+
+.hobby__title
+software <br> developer
+
+open <br> nature
+
+daily <br> life
+
+.hobby__description
+routines that I always do in my life 
+and some hobbies that I really like
+
+.hobby__modal-info
+Ngoding
+
+Web Design
+
+learn to be independent
+
+create websites and applications
+
+Mountain climbing
+
+looking for peace
+
+self healing
+
+physical exercise
+
+========== WORK  ==========
+.section__subtitle | .section__title
+My Portfolio
+Recent Works
+
+.work__item
+All
+Web
+Design
+
+.work__title
+Web design
+
+Moddle
+
+Portfolio
+
+
+========== TESTIMONIALS ==========
+.section__subtitle | .section__title
+My clients say
+Testimonial
+
+.testimonial__name
+Jhon Doe
+
+Paula Vusy
+
+Sara Cill
+
+.testimonial__description
+A really good job, all aspects of the project were 
+followed step by step and with good results.
+
+
+========== CONTACT ==========
+.section__subtitle | .section__title
+Get in touch
+My Contact
+
+.contact__title
+Talk to me
+
+Write me your project
+
+.contact__card-title | .contact__card-data
+Email
+marufamar874@gmail.com
+
+Whatsapp
++62 813-6517-7494
+
+Messenger
+user.Ma'ruf Amar
+
+.contact__button
+mailto:marufamar874@gmail.com
+
+https://api.whatsapp.com/send/?phone=6281365177494&text&type=phone_number&app_absent=0, more information!
+
+https://www.facebook.com/MrRuf0412
+
+========== FOOTER ==========
+.footer__title
+Amar Ma'ruf
+
+.footer__link
+About
+
+Projects
+
+Testimonials
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://api.whatsapp.com/send/?phone=6281365177494&text&type=phone_number&app_absent=0
+
+.footer__copy
+&#169; MrRuf412. All rigths reserved
